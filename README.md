@@ -113,46 +113,4 @@ By the end of the roadmap, you should have a great knowledge about the basics of
 
 ## Mind map:
 
-```mermaid
-graph TB;
-
-subgraph "Weeks 1-2: HTML Fundamentals"
-    a1[HTML Basics]
-    a2[HTML Elements]
-    a3[Text Formatting]
-    a4[Images]
-    a5[Links]
-    a6[Attributes]
-    a7[Mini-Project: Create a Personal Profile Page]
-end
-
-subgraph "Weeks 3-4: CSS Basics"
-    b1[Learning Objectives]
-    b2[Topics to Cover]
-    b3[Activities]
-end
-
-subgraph "Weeks 5-6: Introduction to Tailwind CSS"
-    c1[Learning Objectives]
-    c2[Topics to Cover]
-    c3[Activities]
-end
-
-subgraph "Weeks 7-8: Introduction to JavaScript"
-    d1[JavaScript Basics]
-    d2[DOM Manipulation]
-    d3[Functions]
-    d4[Mini-Project: Interactive Quiz Game]
-end
-
-subgraph "Weeks 9-10: Final Project using Tailwind CSS and JavaScript"
-    e1[Putting it All Together]
-    e2[Creativity and Problem Solving]
-    e3[Mini-Project: Portfolio Website using Tailwind CSS]
-end
-
-a1-->a2-->a3-->a4-->a5-->a6-->a7
-b1-->b2-->b3
-c1-->c2-->c3
-d1-->d2-->d3-->d4
-e1-->e2-->e3
+[![](https://mermaid.ink/img/pako:eNqtlW1PGzEMx79KdK-KxGljjD1U06QNBmOiolsr8aZvfEmuNb1LTomvMBDffU5brg8XViaWvqliO_H9f3Z8n0irdNJNSjSqhGpkhHDWUqdzpTMxdCCne3thU4grrafiIH0jFmux2e2itKaTg8ghzaydLp3D-j7sXYjT2igotSEo_MrUhKWZA6N8iJ5QWRythTdHfAWP0m8aGuO3QofTI-ahviVxal0JRGjGbYfzEsY6EniBZhrZ_kLkMKspFhJWDw2mfWevtaS4R1jHTgNpAaKvnbcGCsEhORZa9Dmbp-NWinlboAqC-YnWlFYFeELJwoVfA-owfbub0PFg0FI3hkZ6f7hFJuPKGDvLdIW0hXWb1twaEh7vtj6oBDdGs7lXgVItPJwBARqWKMJBzcBIHZKPy3XmUMUteaFvXwKPU51rRnbVDTuDnkFu2Uxr-I7Sd7vxnRtyVtWS0JqQ0xCwuOE-5hxjPJvrg88WzkUViMu8OSTSUI_HD34znYiQE3sT0uAKV4IenU9srHeXrrXXonJaZDUWxNTLyhru5pcw-qVZV8kVNSeVO1s2DbGu0f_rtPfph39H9QNmMJAOK_p75137LVCrwOi7eHLZEz0wWNUFhLs2rfwYzzOIAGnEdU-Jy5-geR4QzrT4WeOdOON3Pe76LAmD400Q8GN68Hq3gqe4fCwD_k-vMveZqydgXqv6gWDddmjbZBQG3147_751lLNPaPHMI7_V7WvaUTu_ONlPSs2zCBUP2_twwCihCc-uUdLlvwrcdJSMzAP7QU2WW0wmXXK13k_qSvHIOEEYOygfN7VCsq63GN7zGf7wByhaIZw?type=png)](https://mermaid.live/edit#pako:eNqtlW1PGzEMx79KdK-KxGljjD1U06QNBmOiolsr8aZvfEmuNb1LTomvMBDffU5brg8XViaWvqliO_H9f3Z8n0irdNJNSjSqhGpkhHDWUqdzpTMxdCCne3thU4grrafiIH0jFmux2e2itKaTg8ghzaydLp3D-j7sXYjT2igotSEo_MrUhKWZA6N8iJ5QWRythTdHfAWP0m8aGuO3QofTI-ahviVxal0JRGjGbYfzEsY6EniBZhrZ_kLkMKspFhJWDw2mfWevtaS4R1jHTgNpAaKvnbcGCsEhORZa9Dmbp-NWinlboAqC-YnWlFYFeELJwoVfA-owfbub0PFg0FI3hkZ6f7hFJuPKGDvLdIW0hXWb1twaEh7vtj6oBDdGs7lXgVItPJwBARqWKMJBzcBIHZKPy3XmUMUteaFvXwKPU51rRnbVDTuDnkFu2Uxr-I7Sd7vxnRtyVtWS0JqQ0xCwuOE-5hxjPJvrg88WzkUViMu8OSTSUI_HD34znYiQE3sT0uAKV4IenU9srHeXrrXXonJaZDUWxNTLyhru5pcw-qVZV8kVNSeVO1s2DbGu0f_rtPfph39H9QNmMJAOK_p75137LVCrwOi7eHLZEz0wWNUFhLs2rfwYzzOIAGnEdU-Jy5-geR4QzrT4WeOdOON3Pe76LAmD400Q8GN68Hq3gqe4fCwD_k-vMveZqydgXqv6gWDddmjbZBQG3147_751lLNPaPHMI7_V7WvaUTu_ONlPSs2zCBUP2_twwCihCc-uUdLlvwrcdJSMzAP7QU2WW0wmXXK13k_qSvHIOEEYOygfN7VCsq63GN7zGf7wByhaIZw)
